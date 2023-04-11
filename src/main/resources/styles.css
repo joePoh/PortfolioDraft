@@ -1,0 +1,26 @@
+img {
+width: 200px;
+}
+body {background-color: coral;}
+
+.aboutme {
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: 20% 20% 20% 20% 20%;
+}
+
+
+#home, #aboutme {
+margin-left: 300px;
+margin-right: 300px;
+text-align: center;
+}
+
+#index {
+font-family: "Times New Roman", Times, serif;
+font-size: 24px;
+}
+
+#totop {
+text-align: center;
+}
